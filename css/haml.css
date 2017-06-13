@@ -1,0 +1,110 @@
+html
+{
+  background: #eaeae1 url("../images/bg-body.png") bottom left repeat-x;
+}
+body {
+    margin: 0;
+    padding: 0;
+    border:0;
+    width: 100%;
+    font-family: "PTSans", "Arial", "Helvetica", "sans-serif";
+    overflow: visible;
+}
+
+.container {
+    margin: auto;
+    padding: 0;
+    width: 80%;
+}
+
+.img {
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+ul {
+    list-style: none;
+    margin-left: 55%;
+    margin-top: -7%;
+    word-spacing: 21px;
+    color: #e73e33;;
+    font-weight: bold;
+}
+
+ul li {
+    display: inline;
+    word-spacing: 10px;
+}
+h1
+{
+  margin-left: 50%;
+  margin-top: -24%;
+  line-height: 1.2;
+  font-size: 37px;
+  letter-spacing: 1px;
+}
+.btn
+{
+  width: 15em;
+  height: 4em;
+  margin-left: 41em;
+  background-color: red;
+  color: white;
+  font-size-adjust: .7;
+}
+p{
+  margin-left: 47.5em;
+  margin-top: -2.3em;
+  font-size-adjust: .5;
+}
+.what
+{
+  margin-left: 47.5em;
+  margin-top: -2.3em;
+  font-size-adjust: .5;
+}
+strong {
+    color: #3e3e29;
+    font-weight: bold;
+}
+a {
+    color: #e73e33;
+    text-decoration: none;
+}
+h2
+{
+  margin-left: 11%;
+  margin-top: 3%;
+}
+.paras
+{
+  float: left;
+  margin-left: -59.3%;
+  margin-right: 45%;
+  margin-top: 2%;
+}
+.para1
+{
+margin-right: -2%;
+line-height: 1.5;
+}
+.para2
+{
+margin-top: 4.8%;
+line-height: 1.5;
+margin-right: -4%;
+}
+.para3
+{
+line-height: 1.5;
+margin-top: 4.8%;
+margin-right: -4%;
+}
+.about
+{
+  float:right;
+  width: 27%;
+  margin-top: -30%;
+  margin-right:-32%;
+  background: #eaeae1 url("../images/bg-body.png") bottom left repeat-x;
+}
